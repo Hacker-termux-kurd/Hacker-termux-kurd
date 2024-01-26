@@ -3,5 +3,5 @@ git Termux
 git add cd.pubghack
 git commit -m "PUBG HACK"
 git branch -m pubg hack format
-git help-accounts-pubg-foryou add pubghack https://github.com/Hacker-termux-kurd/cd.pubghack
+git acc add pubghack https://github.com/Hacker-termux-kurd/cd.pubghack
 figlet [PUBG HACK]
