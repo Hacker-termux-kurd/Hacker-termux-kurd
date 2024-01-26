@@ -3,5 +3,5 @@ git Termux
 git add cd.pubghack
 git commit -m "PUBG HACK"
 git branch -y pubg hack format
-git remote add pubghack https://github.com/Hacker-termux-kurd/cd.pubghack
+git remote2 add pubghack https://github.com/Hacker-termux-kurd/cd.pubghack
 figlet [PUBG HACK]
