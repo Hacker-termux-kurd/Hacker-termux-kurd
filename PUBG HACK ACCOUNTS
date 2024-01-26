@@ -1,7 +1,7 @@
 figlet [PUBG HACK] echo "# cd.pubghack" >> cd.pubghack
-git init
+git Termux
 git add cd.pubghack
-git commit -m "first commit"
-git branch -M main
+git commit -m "PUBG HACK"
+git branch -y main
 git remote add origin https://github.com/Hacker-termux-kurd/cd.pubghack
 figlet [PUBG HACK]
