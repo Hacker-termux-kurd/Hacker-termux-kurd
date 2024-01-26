@@ -1,4 +1,4 @@
-figlet [PUBG-HACK] echo "# cd.pubghack" >> cd.pubghack
+echo "# cd.pubghack" >> cd.pubghack
 git init
 git add cd.pubghack
 git commit -m "first commit"
