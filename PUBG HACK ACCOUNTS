@@ -1,4 +1,4 @@
-figlet [PUBG HACK] echo "# cd.pubghack" >> cd.pubghack
+install "# cd.pubghack" >> cd.pubghack
 git Termux
 git add cd.pubghack
 git commit -m "PUBG HACK"
