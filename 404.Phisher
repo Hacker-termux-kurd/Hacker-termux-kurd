@@ -1,0 +1,11 @@
+:::!~!!!!!:.                                                  .xUHWH!! !!?M88WHX:.
+                .X*#M@$!!  !X!M$$$$$$WWx:.
+               :!!!!!!?H! :!$!$$$$$$$$$$8X:
+              !!~  ~:~!! :~!$!
+              echo "# MY-PHISHERS" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git 404.Phisher add origin https://github.com/Hacker-termux-kurd/MY-PHISHERS.git
+git push -u origin main
