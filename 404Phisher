@@ -1,5 +1,5 @@
-apt update
-apt upgrade
+apt install
+apt install -y
 git clone https://github.com/Hacker-Termux-kurd/404Phisher
 cd 404Phisher
-bash 404Phisher
+bash setup
