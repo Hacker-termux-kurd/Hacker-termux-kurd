@@ -1,7 +1,1 @@
-echo "# MY-PHISHERS" >> README.md
-git init
-git add README.md
-git commit -m "404.Phisher"
-git branch -M 404.Phsiher
-git 404.Phisher add origin https://github.com/Hacker-termux-kurd/MY-PHISHERS.git
-git push -u cd.404.Phisher main
+
