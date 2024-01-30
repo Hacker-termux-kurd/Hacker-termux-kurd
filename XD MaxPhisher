@@ -1,0 +1,14 @@
+██╗░░██╗██████╗░
+╚██╗██╔╝██╔══██╗
+░╚███╔╝░██║░░██║
+░██╔██╗░██║░░██║
+██╔╝╚██╗██████╔╝
+╚═╝░░╚═╝╚═════╝░
+apt update
+apt upgrade
+pkg install git
+pkg install python
+pkg install python3
+git clone https://github.com/KasRoudra/MaxPhisher
+cd MaxPhisher
+python3 maxphisher.py
